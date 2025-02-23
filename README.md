@@ -27,4 +27,4 @@ A Python-based tool to disconnect all devices connected to a specific Bluetooth 
 
 ---
 
-# Enjoy F-uckin your friends fun days 🤩
+# Enjoy F-uckin your friends fun and happy days 🤩
