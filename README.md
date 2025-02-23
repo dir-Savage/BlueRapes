@@ -25,3 +25,6 @@ A Python-based tool to disconnect all devices connected to a specific Bluetooth 
   -  Execute the script using Python:
     `python main.py`
 
+---
+
+# Enjoy F-uckin your friends fun days 🤩
