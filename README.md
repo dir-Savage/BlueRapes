@@ -11,3 +11,11 @@ A Python-based tool to disconnect all devices connected to a specific Bluetooth 
 - List all paired and connected Bluetooth devices.
 - Disconnect all devices connected to a specific Bluetooth device.
 - Easy-to-use command-line interface.
+
+
+
+## Requirements
+
+- macOS (tested on macOS Ventura and later).
+- Python 3.x installed.
+- `blueutil` installed (for Bluetooth management).
